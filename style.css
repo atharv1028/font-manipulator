@@ -1,0 +1,29 @@
+body
+{
+    background-image: 'doodleBackgroundIMG.jfif';
+}
+
+.heading
+{
+    box-shadow: 5px 5px 5px lightblue;
+    color: gray;
+    font-size: 25px;
+    width: 100%;
+    background-color: skyblue;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    background-color: springgreen;
+}
